@@ -1,0 +1,26 @@
+<br/>
+<h1 style="text-align: center"><i>{{tag}}</i></h1>
+<hr>
+<br/>
+<br/>
+<div class="row">
+  <div class="col-md-6 offset-md-3"  >
+    <ng-container *ngFor="let item of blogs" >
+      <div class="card text-center" >
+        <div class="card-header">
+
+          <b>{{item.title}}</b>
+        </div>
+        <div class="card-block">
+          <p class="card-text" style="margin: 40px;">{{item.content}}</p>
+        </div>
+        <div class="card-footer text-muted">
+          Posted By : <b>{{item.authorName}}</b> On <b>{{item.createdOn}}</b> Category:<b>{{item.tags}}</b>
+        </div>
+
+      </div>
+      <br/><br/>
+    </ng-container>
+
+  </div>
+</div>

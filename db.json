@@ -1,0 +1,123 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Seeing Through the Big Bang",
+      "content": "\"Your theory is crazy, but it's not crazy enough to be true,\" said the great Danish physicist Niels Bohr. Enter Sir Roger Penrose. Correlated noise in the two LIGO gravitational-wave detectors may provide evidence that the universe is governed by conformal cyclic cosmology (CCC) which assumes that the universe consists of a succession of aeons, \"the boundaries of infinity,\" says Penrose of the University of Oxford. \"The Big Bang was not the origin of our universe,\" he observed.",
+      "tags": "Science",
+      "userName": "Mudit",
+      "createdOn": "15/11/2017",
+      "status": true,
+      "authorName": "Mudit Mathur"
+    },
+    {
+      "id": 2,
+      "title": "Hala Madrid",
+      "content": "Third and fourth in La Liga met in the Madrid derby, but the only winner was Barcelona, as Real Madrid ground out a soulless 0-0 draw in the Metropolitano.Atletico Madrid Angel Correa had a golden opportunity to open the scoring on three minutes, and that turned out to be the highlight of the goal-mouth action in a game that was a poor return on the investment made by paying customers.",
+      "tags": "Sports",
+      "userName": "Mudit",
+      "createdOn": "15/11/2017",
+      "status": true,
+      "authorName": "Mudit Mathur"
+    },
+    {
+      "id": 3,
+      "title": "Ballon d'Or",
+      "content": "Cristiano Ronaldo, Lionel Messi and Neymar will once again be the main contenders for the Ballon d'Or after the trio were named among the 30-player shortlist for the 2017 award on Monday.      But while the star-quality of the nominees is undeniable, there were many notable omissions from the list of contenders.",
+      "tags": "Sports",
+      "userName": "Mudit",
+      "createdOn": "17/11/2017",
+      "status": true,
+      "authorName": "Mudit Mathur"
+    },
+    {
+      "id": 4,
+      "title": "Studying The Brain’s Reward System",
+      "content": "Why are some people able to stop after eating just a few potato chips, while others aren’t satisfied until the bag is nothing but crumbs? The answer may lie in the signals acting in the brain’s reward system. A UB public health researcher is investigating these signals and their potential relationship to overeating, with a particular focus on sex differences, through studies in a rodent model. The study outcomes could help provide a better understanding of — and treatment for — obesity.Elizabeth Mietlicki-Baase, an assistant professor of exercise and nutrition sciences in the School of Public Health and Health Professions, is zeroing in on amylin signaling in the brain. Amylin is a hormone produced in the pancreas and in the brain.",
+      "tags": "Science",
+      "userName": "jai",
+      "createdOn": "17/11/2017",
+      "status": true,
+      "authorName": "Jai Rathore"
+    },
+    {
+      "title": "Stephen Hawking On Space Travel",
+      "status": true,
+      "content": "He specifically recommends colonizing the Moon and visiting Mars (apparently with longer term plans for colonization). I partially agree with Hawking. I tend to disagree with him on the first point. To be fair, he does say we need to tackle global warming and take care of the Earth, but he also seems to be pessimistic about our chances. He also mentions that he is talking about surviving for the next million years, and so he is talking long term.\n\nI don’t see the options of taking care of the Earth and spreading out to other worlds as an either-or proposition. We should do both. I am also more optimistic about our ability to live sustainably on the Earth. In fact, we need to, and if we don’t spreading out will not solve the problem.\n\nThe Earth is by far the easiest location on which to live sustainably (at least for humans). If we can’t make it here, we have no chance on the Moon or Mars. The Earth will remain our best chance for thousands or perhaps tens of thousands of years. Even then, the best case scenario is that we find or make another Earth. Whatever challenges we face one Earth, we will face there also (probably more so).\n\nWe need to figure out how to live on this planet without using up all its resources, destroying ecosystems, and radically changing the climate. We need to source our energy and food sustainably. We can do it, and we already have the technology, with only incremental advances, to make it work. We will probably see more than incremental advances. If, for example, we figure out how to harness fusion energy, that would entirely change the game.\n\nMoving on – I completely agree with the second point. Although I think we should protect the Earth from asteroids, CMEs, and other similar threats, we can’t guarantee that a catastrophic event won’t happen sometime (especially if we are talking about a million year time frame). So yes, if humanity is spread out to multiple worlds, and multiple systems, our collective chance of survival long term goes way up.\n\nHowever, since we are talking long term, there is no rush. It will likely be much easier to colonize other worlds in a hundred or thousand years. The probability of an extinction event in that time frame is tiny, so rushing to do it before we are technologically ready is not necessary. I am not saying we are not ready – I think we should absolutely go back to the Moon and plan for a permanent presence there. We have all the technology we need for that.\n\nMars is a more difficult question. We don’t, actually, have the technology we need for that. We don’t have the ships with the requisite shielding, and it’s not clear how a colony would survive on Mars. I am not saying that we can’t do it. But this would require a dedicated program, lots of resources, and the development of new technology to make it happen. I think our prospects of colonizing Mars at this time are marginal – possible, but highly risky. The Moon is a much better bet in the short term, and doing so would probably help advance the technology necessary to give a Mars colony a better chance.\n\nWill space exploration unite humanity? That’s hard to say, but I don’t hold any Utopian views of a future of one united humanity sharing the solar system. I think the show, The Expanse, has a greater chance of being closer to the truth. In that vision of the future, humanity colonizes the solar system, but this just leads to new divisions and conflicts. Sure, the Earth might be united, but now we are fighting with Mars and the Belters.\n\nBut I do think Hawking has a point. The International Space Station does show the potential for space programs. Colonizing the Moon or Mars would take more than the resources of one nation. It would encourage us to work together, which means we will have stakes in each other. If we start with the joint understanding that “space” belongs equally to all humanity, and stay true to that principle, exploring space can be a uniting endeavor.\n\nIt will not magically solve all our political problems, but it can help. Space exploration should be considered a human project, not a way for one nation to compete against another. Big projects like colonizing the Moon or Mars could serve that end.  I also agree with Hawking that space exploration will spark interest in science and technology, and help inspire new generations.\n\nWe should be working right now on international plans to colonize the Moon. We can begin sending people to Mars for exploration, but colonization should wait until after we have a sustainable colony on the Moon. I agree with Hawking on the fundamental point that this is worth our investment.",
+      "tags": "Space",
+      "authorName": "Basanti Jhala",
+      "createdOn": "19/11/2017",
+      "userName": "basanti",
+      "id": 5
+    },
+    {
+      "title": "Stephen Hawking",
+      "status": true,
+      "content": "Stephen Hawking is the former Lucasian Professor of Mathematics at the University of Cambridge and author of A Brief History of Time which was an international bestseller. Now the Dennis Stanton Avery and Sally Tsui Wong-Avery Director of Research at the Department of Applied Mathematics and Theoretical Physics and Founder of the Centre for Theoretical Cosmology at Cambridge, his other books for the general reader include A Briefer History of Time, the essay collection Black Holes and Baby Universe and The Universe in a Nutshell.\n\nIn 1963, Hawking contracted motor neurone disease and was given two years to live. Yet he went on to Cambridge to become a brilliant researcher and Professorial Fellow at Gonville and Caius College. From 1979 to 2009 he held the post of Lucasian Professor at Cambridge, the chair held by Isaac Newton in 1663. Professor Hawking has over a dozen honorary degrees and was awarded the CBE in 1982. He is a fellow of the Royal Society and a member of the US National Academy of Science. Stephen Hawking is regarded as one of the most brilliant theoretical physicists since Einstein.",
+      "tags": "Space",
+      "authorName": "Basanti Jhala",
+      "userName": "basanti",
+      "createdOn": "19/11/2017",
+      "id": 6
+    },
+    {
+      "title": "Cryptocurrency",
+      "status": true,
+      "content": "A cryptocurrency (or crypto currency) is a digital asset designed to work as a medium of exchange using cryptography to secure the transactions, to control the creation of additional units, and to verify the transfer of assets. Cryptocurrencies are classified as a subset of digital currencies and are also classified as a subset of alternative currencies and virtual currencies.\nBitcoin, created in 2009, was the first decentralized cryptocurrency. Since then, numerous cryptocurrencies have been created.These are frequently called altcoins, as a blend of bitcoin alternative. Bitcoin and its derivatives use decentralized control as opposed to centralized electronic money/centralized banking systems. The decentralized control is related to the use of bitcoin's blockchain transaction database in the role of a distributed ledger.",
+      "tags": "Technology",
+      "authorName": "Basanti Jhala",
+      "userName": "basanti",
+      "createdOn": "19/11/2017",
+      "id": 7
+    },
+    {
+      "title": "Sahi Panner Recepie",
+      "status": true,
+      "content": "Shahi Paneer is an easy-to-make main dish recipe that you can prepare for your loved ones on special occasions and festivals. This North Indian recipe is a perfect dish for home parties and can be best enjoyed with roomali roti, butter naan and jeera rice. Cooked using paneer, yoghurt, milk, onion and a melange of spices, this is a restaurant-style shahi paneer that you can easily make at home. Creamy, aromatic and rich in taste, this is one of the best paneer recipes that can be cooked parties. Try it!\n",
+      "tags": "Food",
+      "authorName": "jai rathore",
+      "createdOn": "19/11/2017",
+      "id": 8
+    },
+    {
+      "title": "Aloo Matar Recipe",
+      "status": true,
+      "content": "There are a number of popular vegetarian recipes in India, but aloo matar is probably the most commonly prepared one. Easy availability of the basic ingredients – potatoes and green peas, the simplicity of making this dish along with the fact that it is really tasty all contribute to the popularity of this one. Chunks of aloo and matar are cooked in a simple but packed with flavour spice base. Great to eat along with garma garam roti’s or alongwith some hot dal-chawal. This aloo matar sabzi is exactly what you need to make even the simplest of meals the most delicious ones.\n\nPrep Time : 11-15 minutes\n\nCook time : 11-15 minutes\n\nServe : 4\n\nLevel Of Cooking : Easy\n\nIngredients for Aloo Matar\nPotatoes 1 cm cubes (boiled)4 medium\n\nGreen peas shelled (blanched)1 1/4 cups\nOil 2 tablespoons\nCumin seeds 1 teaspoon\nGinger juliennes 1 inch piece\nGreen chillies slit1\nRed chilli powder 1 teaspoon\nTurmeric powder 1/4 teaspoon\nCoriander powder 1 1/2 teaspoons\nGaram masala powder 1 teaspoon\nSalt to taste\nFresh coriander leaves 2 tablespoons\n\nNutrition Info\nCalories : 896\nCarbohydrates : 130.9\nProtein : 21.6\nFat : 32.1\nOther : Fiber- 26.8gm\n\nMethod\n\nStep 1:\nHeat oil in a pan over medium heat. Add cumin seeds and when it crackles add ginger and green chillies, stir-fry for a minute. Add green peas, potatoes and stir fry till for 2 minutes.\n\nStep 2:\nAdd red chilli powder, turmeric powder, and coriander powder and stir-fry at slow heat till the spices blend well with the vegetables.\n\nStep 3:\nAdd salt and garam masala powder and finish with chopped coriander leaves.",
+      "tags": "Food",
+      "userName": "jai",
+      "authorName": "jai rathore",
+      "createdOn": "19/11/2017",
+      "id": 9
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "username": "jai",
+      "password": "hello",
+      "name": "jai rathore",
+      "favourite": [
+        1,
+        2,
+        9
+      ]
+    },
+    {
+      "id": 2,
+      "username": "Mudit",
+      "password": "world",
+      "name": "Mudit Mathur",
+      "favourite": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 3,
+      "username": "basanti",
+      "password": "hello",
+      "name": "Basanti Jhala",
+      "favourite": []
+    }
+  ]
+}

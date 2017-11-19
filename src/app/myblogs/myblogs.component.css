@@ -1,0 +1,10 @@
+hr {
+  display: block;
+  margin-top: 0.2em;
+  margin-bottom: 0.5em;
+  margin-left: 270px;
+  margin-right: 270px;
+  border-style: inset;
+  border-width: 2px;
+  border: 1px solid black;
+}

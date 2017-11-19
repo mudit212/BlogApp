@@ -1,0 +1,31 @@
+<br/>
+<h1 style="text-align: center">Add Your Blog</h1>
+<hr>
+<div class="container-fluid center_div ">
+<form class="border-class">
+  <div class="form-group ">
+    <label for="title">Title</label>
+    <input type="text" class="form-control" #title id="title" placeholder="Enter title"  >
+  </div>
+
+  <div class="form-group">
+    <label for="Tags">Select Tags</label>
+    <select class="form-control" style="backface-visibility:visible; " id="Tags" #Tags>
+      <option value="0" selected="selected"> </option>
+      <option value="Space">Space</option>
+      <option value="Science">Science</option>
+      <option value="Technology">Technology</option>
+      <option value="Sports">Sports</option>
+      <option value="Food">Food</option>
+    </select>
+  </div>
+  <div class="form-group">
+    <label for="description">Write your Blog Here</label>
+    <textarea class="form-control" id="description" rows="8" #description></textarea>
+  </div>
+  <div class="form-actions">
+    <button type="submit" class="btn btn-primary " (click)="addBlog(title.value,description.value,Tags.value);">Submit</button>
+  </div>
+</form>
+</div>
+

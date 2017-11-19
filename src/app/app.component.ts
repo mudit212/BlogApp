@@ -6,5 +6,23 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+     constructor(){
+     }
+
+   checklogin()
+   {
+     let user=JSON.parse(localStorage.getItem('user'));
+     if(user!=null)
+     {
+
+       return true;
+
+     }
+     else
+     {
+
+       return false;
+     }
+   }
+
 }

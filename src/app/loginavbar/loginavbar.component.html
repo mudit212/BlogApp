@@ -1,0 +1,22 @@
+<nav class="navbar navbar-expand-lg navbar-light" style="background-color: lightcoral;">
+  <nav class="navbar navbar-light">
+    <span class="navbar-brand mb-0 h1 "><a class="navbar-brand">Blogify</a></span>
+  </nav>
+  <ul class="navbar-nav mr-auto">
+    <li class="nav-item active" style="margin-right: 250px;">
+      <a class="nav-link" [routerLink]="['/Home']">Home </a>
+    </li>
+    <li class="nav-item" *ngFor="let name of blogsname" style="margin-right: 40px; ">
+      <a class="btn btn-outline-dark"  (click)="filterdata(name)" [routerLink]="['Filterdata']">{{name}}</a>
+    </li>
+
+  </ul>
+  <h4 style="margin-right:2px ;margin-top: 8px">Hello {{user.username|uppercase}}</h4>
+  <button class="btn btn-outline-dark my-2 my-sm-0"  style="margin-right: 4px;" [routerLink]="['/Favourite']">Favourite</button>
+  <button class="btn btn-outline-dark my-2 my-sm-0"  style="margin-right: 4px;" [routerLink]="['/Myblogs']">My Blogs</button>
+  <button class="btn btn-outline-dark my-2 my-sm-0"  style="margin-right: 4px;" [routerLink]="['/Add']">Create Blog</button>
+  <button class="btn btn-outline-dark my-2 my-sm-0"  style="margin-right: 4px;" (click)="logout()">LogOut</button>
+</nav>
+
+
+

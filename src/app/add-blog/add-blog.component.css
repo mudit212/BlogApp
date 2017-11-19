@@ -1,0 +1,29 @@
+.center_div{
+  margin: 0 auto;
+  width:60% ;/* value of your choice which suits your alignment */
+}
+
+.border-class
+{
+  border-radius: 7px;
+  background-color: #f2f2f2;
+  padding: 50px;
+  margin:30px;
+}
+
+.form-actions {
+  margin: 0;
+  background-color: transparent;
+  text-align: center;
+}
+
+hr {
+  display: block;
+  margin-top: 0.2em;
+  margin-bottom: 0.5em;
+  margin-left: 250px;
+  margin-right: 250px;
+  border-style: inset;
+  border-width: 2px;
+  border: 1px solid darkgrey;
+}

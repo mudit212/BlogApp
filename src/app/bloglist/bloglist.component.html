@@ -1,0 +1,53 @@
+<div  *ngIf="checklogin() === false" >
+    <br/>
+    <h1 style="text-align: center"><i>BLOGS</i></h1>
+    <hr>
+    <br/>
+    <br/>
+    <div class="row">
+      <div class="col-md-6 offset-md-3"  >
+        <ng-container *ngFor="let item of blogs">
+          <div class="card text-center" >
+            <div class="card-header">
+              <b>{{item.title}}</b>
+            </div>
+            <div class="card-block">
+              <p class="card-text" style="margin: 40px;">{{item.content}}</p>
+            </div>
+            <div class="card-footer text-muted">
+              Posted By : <b>{{item.authorName}}</b> On <b>{{item.createdOn}}</b> Category:<b>{{item.tags}}</b>
+            </div>
+          </div>
+          <br/><br/>
+        </ng-container>
+
+      </div>
+    </div>
+</div>
+<div  *ngIf="checklogin() === true" >
+  <br/>
+  <h1 style="text-align: center"><i>BLOGS</i></h1>
+  <hr>
+  <br/>
+  <br/>
+  <div class="row">
+    <div class="col-md-6 offset-md-3"  >
+      <ng-container *ngFor="let item of blogs">
+        <div class="card text-center" >
+          <div class="card-header" >
+            <b>{{item.title}}</b>
+            <button class="btn btn-danger" style="float:right; " (click)="favourite(item.id)" >Mark As Favourite</button>
+          </div>
+          <div class="card-block">
+            <p class="card-text" style="margin: 40px;">{{item.content}}</p>
+          </div>
+          <div class="card-footer text-muted">
+            Posted By : <b>{{item.authorName}}</b> On <b>{{item.createdOn}}</b> Category:<b>{{item.tags}}</b>
+          </div>
+        </div>
+        <br/><br/>
+      </ng-container>
+
+    </div>
+  </div>
+</div>
